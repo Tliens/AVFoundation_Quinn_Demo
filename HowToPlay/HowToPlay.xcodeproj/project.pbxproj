@@ -7,29 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E45755462180BC3D00B1C90C /* 3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E45755452180BC3D00B1C90C /* 3.mp4 */; };
-		E45755482180BC4100B1C90C /* 任素汐 - 我要你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E45755472180BC4100B1C90C /* 任素汐 - 我要你.mp3 */; };
-		E460D4D7217F61F800B0D957 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E460D4D6217F61F800B0D957 /* AppDelegate.swift */; };
-		E460D4D9217F61F800B0D957 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E460D4D8217F61F800B0D957 /* ViewController.swift */; };
-		E460D4DC217F61F800B0D957 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E460D4DA217F61F800B0D957 /* Main.storyboard */; };
-		E460D4DE217F61F900B0D957 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E460D4DD217F61F900B0D957 /* Assets.xcassets */; };
-		E460D4E1217F61F900B0D957 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E460D4DF217F61F900B0D957 /* LaunchScreen.storyboard */; };
+		E457552F2180BBBC00B1C90C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E457552E2180BBBC00B1C90C /* AppDelegate.swift */; };
+		E45755312180BBBC00B1C90C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45755302180BBBC00B1C90C /* ViewController.swift */; };
+		E45755342180BBBC00B1C90C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E45755322180BBBC00B1C90C /* Main.storyboard */; };
+		E45755362180BBBD00B1C90C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E45755352180BBBD00B1C90C /* Assets.xcassets */; };
+		E45755392180BBBD00B1C90C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E45755372180BBBD00B1C90C /* LaunchScreen.storyboard */; };
+		E45755422180BBFC00B1C90C /* 任素汐 - 我要你.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = E45755412180BBFC00B1C90C /* 任素汐 - 我要你.mp3 */; };
+		E45755442180BC2900B1C90C /* 3.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = E45755432180BC2900B1C90C /* 3.mp4 */; };
+		E457554A2180C2B700B1C90C /* PlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E45755492180C2B700B1C90C /* PlayerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E45755452180BC3D00B1C90C /* 3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 3.mp4; path = ../../3.mp4; sourceTree = "<group>"; };
-		E45755472180BC4100B1C90C /* 任素汐 - 我要你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "任素汐 - 我要你.mp3"; path = "../../任素汐 - 我要你.mp3"; sourceTree = "<group>"; };
-		E460D4D3217F61F800B0D957 /* LoadingAVAsset.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoadingAVAsset.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E460D4D6217F61F800B0D957 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E460D4D8217F61F800B0D957 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		E460D4DB217F61F800B0D957 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E460D4DD217F61F900B0D957 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E460D4E0217F61F900B0D957 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E460D4E2217F61F900B0D957 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E457552B2180BBBC00B1C90C /* HowToPlay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HowToPlay.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E457552E2180BBBC00B1C90C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E45755302180BBBC00B1C90C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E45755332180BBBC00B1C90C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E45755352180BBBD00B1C90C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E45755382180BBBD00B1C90C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E457553A2180BBBD00B1C90C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E45755412180BBFC00B1C90C /* 任素汐 - 我要你.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "任素汐 - 我要你.mp3"; path = "../../任素汐 - 我要你.mp3"; sourceTree = "<group>"; };
+		E45755432180BC2900B1C90C /* 3.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = 3.mp4; path = ../../3.mp4; sourceTree = "<group>"; };
+		E45755492180C2B700B1C90C /* PlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E460D4D0217F61F800B0D957 /* Frameworks */ = {
+		E45755282180BBBC00B1C90C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,73 +41,74 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E460D4CA217F61F800B0D957 = {
+		E45755222180BBBC00B1C90C = {
 			isa = PBXGroup;
 			children = (
-				E460D4D5217F61F800B0D957 /* LoadingAVAsset */,
-				E460D4D4217F61F800B0D957 /* Products */,
+				E457552D2180BBBC00B1C90C /* HowToPlay */,
+				E457552C2180BBBC00B1C90C /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E460D4D4217F61F800B0D957 /* Products */ = {
+		E457552C2180BBBC00B1C90C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E460D4D3217F61F800B0D957 /* LoadingAVAsset.app */,
+				E457552B2180BBBC00B1C90C /* HowToPlay.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E460D4D5217F61F800B0D957 /* LoadingAVAsset */ = {
+		E457552D2180BBBC00B1C90C /* HowToPlay */ = {
 			isa = PBXGroup;
 			children = (
-				E460D4D6217F61F800B0D957 /* AppDelegate.swift */,
-				E460D4D8217F61F800B0D957 /* ViewController.swift */,
-				E45755452180BC3D00B1C90C /* 3.mp4 */,
-				E45755472180BC4100B1C90C /* 任素汐 - 我要你.mp3 */,
-				E460D4DA217F61F800B0D957 /* Main.storyboard */,
-				E460D4DD217F61F900B0D957 /* Assets.xcassets */,
-				E460D4DF217F61F900B0D957 /* LaunchScreen.storyboard */,
-				E460D4E2217F61F900B0D957 /* Info.plist */,
+				E457552E2180BBBC00B1C90C /* AppDelegate.swift */,
+				E45755302180BBBC00B1C90C /* ViewController.swift */,
+				E45755492180C2B700B1C90C /* PlayerView.swift */,
+				E45755412180BBFC00B1C90C /* 任素汐 - 我要你.mp3 */,
+				E45755322180BBBC00B1C90C /* Main.storyboard */,
+				E45755432180BC2900B1C90C /* 3.mp4 */,
+				E45755352180BBBD00B1C90C /* Assets.xcassets */,
+				E45755372180BBBD00B1C90C /* LaunchScreen.storyboard */,
+				E457553A2180BBBD00B1C90C /* Info.plist */,
 			);
-			path = LoadingAVAsset;
+			path = HowToPlay;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E460D4D2217F61F800B0D957 /* LoadingAVAsset */ = {
+		E457552A2180BBBC00B1C90C /* HowToPlay */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E460D4E5217F61F900B0D957 /* Build configuration list for PBXNativeTarget "LoadingAVAsset" */;
+			buildConfigurationList = E457553D2180BBBD00B1C90C /* Build configuration list for PBXNativeTarget "HowToPlay" */;
 			buildPhases = (
-				E460D4CF217F61F800B0D957 /* Sources */,
-				E460D4D0217F61F800B0D957 /* Frameworks */,
-				E460D4D1217F61F800B0D957 /* Resources */,
+				E45755272180BBBC00B1C90C /* Sources */,
+				E45755282180BBBC00B1C90C /* Frameworks */,
+				E45755292180BBBC00B1C90C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = LoadingAVAsset;
-			productName = LoadingAVAsset;
-			productReference = E460D4D3217F61F800B0D957 /* LoadingAVAsset.app */;
+			name = HowToPlay;
+			productName = HowToPlay;
+			productReference = E457552B2180BBBC00B1C90C /* HowToPlay.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E460D4CB217F61F800B0D957 /* Project object */ = {
+		E45755232180BBBC00B1C90C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
 				ORGANIZATIONNAME = Quinn;
 				TargetAttributes = {
-					E460D4D2217F61F800B0D957 = {
+					E457552A2180BBBC00B1C90C = {
 						CreatedOnToolsVersion = 10.0;
 					};
 				};
 			};
-			buildConfigurationList = E460D4CE217F61F800B0D957 /* Build configuration list for PBXProject "LoadingAVAsset" */;
+			buildConfigurationList = E45755262180BBBC00B1C90C /* Build configuration list for PBXProject "HowToPlay" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,56 +116,57 @@
 				en,
 				Base,
 			);
-			mainGroup = E460D4CA217F61F800B0D957;
-			productRefGroup = E460D4D4217F61F800B0D957 /* Products */;
+			mainGroup = E45755222180BBBC00B1C90C;
+			productRefGroup = E457552C2180BBBC00B1C90C /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E460D4D2217F61F800B0D957 /* LoadingAVAsset */,
+				E457552A2180BBBC00B1C90C /* HowToPlay */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E460D4D1217F61F800B0D957 /* Resources */ = {
+		E45755292180BBBC00B1C90C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E460D4E1217F61F900B0D957 /* LaunchScreen.storyboard in Resources */,
-				E460D4DE217F61F900B0D957 /* Assets.xcassets in Resources */,
-				E460D4DC217F61F800B0D957 /* Main.storyboard in Resources */,
-				E45755482180BC4100B1C90C /* 任素汐 - 我要你.mp3 in Resources */,
-				E45755462180BC3D00B1C90C /* 3.mp4 in Resources */,
+				E45755392180BBBD00B1C90C /* LaunchScreen.storyboard in Resources */,
+				E45755422180BBFC00B1C90C /* 任素汐 - 我要你.mp3 in Resources */,
+				E45755362180BBBD00B1C90C /* Assets.xcassets in Resources */,
+				E45755442180BC2900B1C90C /* 3.mp4 in Resources */,
+				E45755342180BBBC00B1C90C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E460D4CF217F61F800B0D957 /* Sources */ = {
+		E45755272180BBBC00B1C90C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E460D4D9217F61F800B0D957 /* ViewController.swift in Sources */,
-				E460D4D7217F61F800B0D957 /* AppDelegate.swift in Sources */,
+				E457554A2180C2B700B1C90C /* PlayerView.swift in Sources */,
+				E45755312180BBBC00B1C90C /* ViewController.swift in Sources */,
+				E457552F2180BBBC00B1C90C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		E460D4DA217F61F800B0D957 /* Main.storyboard */ = {
+		E45755322180BBBC00B1C90C /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E460D4DB217F61F800B0D957 /* Base */,
+				E45755332180BBBC00B1C90C /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E460D4DF217F61F900B0D957 /* LaunchScreen.storyboard */ = {
+		E45755372180BBBD00B1C90C /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E460D4E0217F61F900B0D957 /* Base */,
+				E45755382180BBBD00B1C90C /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -170,7 +174,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E460D4E3217F61F900B0D957 /* Debug */ = {
+		E457553B2180BBBD00B1C90C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -231,7 +235,7 @@
 			};
 			name = Debug;
 		};
-		E460D4E4217F61F900B0D957 /* Release */ = {
+		E457553C2180BBBD00B1C90C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -286,36 +290,36 @@
 			};
 			name = Release;
 		};
-		E460D4E6217F61F900B0D957 /* Debug */ = {
+		E457553E2180BBBD00B1C90C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = V95KM6E24P;
-				INFOPLIST_FILE = LoadingAVAsset/Info.plist;
+				INFOPLIST_FILE = HowToPlay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.quinn.image.LoadingAVAsset;
+				PRODUCT_BUNDLE_IDENTIFIER = com.quinn.image.HowToPlay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		E460D4E7217F61F900B0D957 /* Release */ = {
+		E457553F2180BBBD00B1C90C /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = V95KM6E24P;
-				INFOPLIST_FILE = LoadingAVAsset/Info.plist;
+				INFOPLIST_FILE = HowToPlay/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.quinn.image.LoadingAVAsset;
+				PRODUCT_BUNDLE_IDENTIFIER = com.quinn.image.HowToPlay;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -325,25 +329,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E460D4CE217F61F800B0D957 /* Build configuration list for PBXProject "LoadingAVAsset" */ = {
+		E45755262180BBBC00B1C90C /* Build configuration list for PBXProject "HowToPlay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E460D4E3217F61F900B0D957 /* Debug */,
-				E460D4E4217F61F900B0D957 /* Release */,
+				E457553B2180BBBD00B1C90C /* Debug */,
+				E457553C2180BBBD00B1C90C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E460D4E5217F61F900B0D957 /* Build configuration list for PBXNativeTarget "LoadingAVAsset" */ = {
+		E457553D2180BBBD00B1C90C /* Build configuration list for PBXNativeTarget "HowToPlay" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E460D4E6217F61F900B0D957 /* Debug */,
-				E460D4E7217F61F900B0D957 /* Release */,
+				E457553E2180BBBD00B1C90C /* Debug */,
+				E457553F2180BBBD00B1C90C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E460D4CB217F61F800B0D957 /* Project object */;
+	rootObject = E45755232180BBBC00B1C90C /* Project object */;
 }
